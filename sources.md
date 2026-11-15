@@ -4,7 +4,7 @@ The tables in this folder are the Feature 3 package (see `README.md`), rebuilt f
 
 All data downloaded from NASA data services.
 
-| File | NASA service | Dataset ID | Measured / produced by | Period covered | links |
+| File | NASA service | Dataset ID | Measured / produced by | Period covered |
 |---|---|---|---|---|
 | inspiration4_labs_long.csv, inspiration4_labs_wide.csv, inspiration4_baseline_summary.csv (blood count) | NASA Open Science Data Repository | OSD-569, version-4 folder | SpaceX Inspiration4 crew study led by Weill Cornell Medicine | L-92 to R+194 (2021-22) |
 | same files (blood chemistry, heart and vessel markers, immune markers) | NASA Open Science Data Repository | OSD-575, version-3 folder | same study | same |
